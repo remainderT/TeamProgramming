@@ -54,18 +54,18 @@
 #### `🧑‍💻Every` 团队协作的事前讨论
 
 1. 请大家在一起讨论对于 DevOps 的理解，分配本团队的 DevOps 相关工作。操作上，也可以由团队决定一位同学来担当全部相关工作。
-2. 请大家调研并根据小组内的网络环境、使用习惯等因素决定 DevOps 的各项考虑和服务选型，也可以使用一体化的 DevOps 平台例如[腾讯云 CODING](https://coding.net/). 至少，需要决定一款代码托管平台。**对于这次作业**，请在 [GitHub](https://github.com/) 或 [GitCode](https://gitcode.net/) 中二选一完成。 
+2. 请大家调研并根据小组内的网络环境、使用习惯等因素决定 DevOps 的各项考虑和服务选型，也可以使用一体化的 DevOps 平台例如[腾讯云 CODING](https://coding.net/). 至少，需要决定一款代码托管平台。**对于这次作业**，请在 [GitHub](https://github.com/) 或 [GitCode](https://gitcode.com/) 中二选一完成。 
 3. 选择好之后，请各位成员在相关平台上完成账户注册、创建组织等工作。请注意，本次作业的代码仓库需要保证**至少课程组内部可以自由访问**以保证公正性；除非特殊情况，建议保持公开。
 
 #### `🚧Maintenance` 初始化代码仓库
 
-1. `Fork`（或在使用其他平台时 `Clone`）[GitHub 仓库](https://github.com/kuma-xx/BUAASE2025-TeamVersionControl) 或 [GitCode 仓库](https://gitcode.net/CodingNoBorder/buaase2025-teamversioncontrol)，初始化本团队的仓库；
+1. `Fork`（或在使用其他平台时 `Clone`）[GitHub 仓库](https://github.com/kuma-xx/BUAASE2025-TeamVersionControl) 或 [GitCode 仓库](https://gitcode.com/CodingNoBorder/BUAASE2025-TeamVersionControl)，初始化本团队的仓库；
 2. 设置代码仓库中成员的相关权限；
 3. 建立一个 `dev` 分支；
 4. 检出分支 `chore/init`；
 5. 在根目录下创建一个 `.gitignore` 文件，忽略根目录下的 `info.txt` 文件；
 6. 在根目录下创建一个 `error-logs.txt` 文件；
-7. 为仓库设置 Issue 模板，你可以参照 [GitHub 教程](https://docs.github.com/zh/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)，或 [GitCode 教程](https://gitcode.net/gitcode/help-docs/-/wikis/docs/user/project/description-template)；
+7. 为仓库设置 Issue 模板，你可以参照 [GitHub 教程](https://docs.github.com/zh/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)，或 [GitCode 教程](https://docs.gitcode.com/docs/help/home/org_project/issue/issue_template)；
 8. 提交更改，按照合并规范操作，最终合并你的更改到 `dev` 分支；
 9. 通知团队的所有成员现在可以开始进入下一个阶段 `Task.1` 了。
 
