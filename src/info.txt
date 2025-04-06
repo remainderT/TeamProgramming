@@ -1,2 +1,0 @@
-name: SangeTsi
-description: the man is lazy, never write anything
